@@ -1,0 +1,17 @@
+1. A backend server is back-end part of the website where all the technical processes happen. The user of the website only comes in contact with the front-end of the website such as GUI, and not the back-end. Programming languages like Ruby are used for the back-end. The back-end is essentially the code that remains on the server. 
+
+Resources: 
+•	https://www.reference.com/technology/back-end-server-d4d0f1b851cd7424#
+I like how this resource uses very plain and simple language to explain what a server is.
+•	https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+I like how this resource has images. I also like that it gives you links to “what you already should know before reading this” and “what you need to know next”. 
+•	https://www.youtube.com/watch?v=-DHjFEzuDjQ 
+I like how visual this video tutorial is. 
+
+2. SQL databases are table-based databases and are vertically scalable, whereas NoSQL databases are document based, key-value pairs, graph databases or wide-column stores, and are horizontally scalable.  SQL also uses structured query language for defining and manipulating data. In No SQL databases, queries are focused on the collection of documents or UnQL (unstructured query language).  
+
+Resources:
+•	http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool:
+Has almost everything you need to know about SQL vs No SQL. I also like how he gives examples. 
+•	https://www.w3schools.com/sql/
+I like how W3 schools has so many different tutorials and examples about SQL. I like how its easy accessible on one website.

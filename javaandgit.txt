@@ -1,0 +1,14 @@
+3. For basic Javascript question I usually go to W3 Schools.
+A promise is “a proxy for a value that will eventually become available.” It is also a proxy for a value not necessarily known when the promise is created. It gives us a way to handle asynchronous processing in a more synchronous fashion. To create a promise, you can use the ‘new Promise’ constructor, which accepts a handler that is given two functions as parameters. The first handler is to call the future value when it’s ready, while the second one is a function to call to reject the Promise if it can’t resolve the future value.
+
+Resources:
+-	http://www.datchley.name/es6-promises/
+-	https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+-	https://ponyfoo.com/articles/es6-promises-in-depth
+
+4. Resources:
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+- http://gitref.org/branching/
+
+Git mergetool gets launched to show merges on my computer. 
+It automatically edits text and when you exit it saves.
